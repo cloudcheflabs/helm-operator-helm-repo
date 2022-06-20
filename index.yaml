@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroaster-helm-operator:
+  - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2022-06-20T13:12:48.388583155Z"
+    description: dataroaster helm operator
+    digest: d4b799eee5325c2b9b6eab78b95e5df43ab3224248d35621e687784f273ded6e
+    name: dataroaster-helm-operator
+    urls:
+    - dataroaster-helm-operator-v1.0.0.tgz
+    version: v1.0.0
+generated: "2022-06-20T13:12:48.388199658Z"
