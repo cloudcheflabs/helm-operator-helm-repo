@@ -3,7 +3,7 @@ entries:
   dataroaster-helm-operator:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2022-07-12T06:14:28.516508366Z"
+    created: "2022-07-12T15:25:40.440536972Z"
     description: dataroaster helm operator
     digest: d4b799eee5325c2b9b6eab78b95e5df43ab3224248d35621e687784f273ded6e
     name: dataroaster-helm-operator
@@ -12,8 +12,17 @@ entries:
     version: v1.0.0
   dataroasterhelmoperator:
   - apiVersion: v2
+    appVersion: v2.0.1
+    created: "2022-07-12T15:25:40.441264657Z"
+    description: dataroaster helm operator
+    digest: e9db3527ff00e237c436a794734f3025c62ba11043c0b64b83fae1f30501cc51
+    name: dataroasterhelmoperator
+    urls:
+    - dataroasterhelmoperator-v1.1.1.tgz
+    version: v1.1.1
+  - apiVersion: v2
     appVersion: v2.0.0
-    created: "2022-07-12T06:14:28.518043828Z"
+    created: "2022-07-12T15:25:40.4410382Z"
     description: dataroaster helm operator
     digest: 860be638eb8140ab0e422e36030bbde67109b84b3d8ba7f085d3bf04990e98bd
     name: dataroasterhelmoperator
@@ -22,11 +31,11 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2022-07-12T06:14:28.517284724Z"
+    created: "2022-07-12T15:25:40.44075806Z"
     description: dataroaster helm operator
     digest: 7a9668c6c95517ca849563209238e02ffb7a19237485abb4aa7ec65c5a168eca
     name: dataroasterhelmoperator
     urls:
     - dataroasterhelmoperator-v1.0.1.tgz
     version: v1.0.1
-generated: "2022-07-12T06:14:28.515697132Z"
+generated: "2022-07-12T15:25:40.440198131Z"
